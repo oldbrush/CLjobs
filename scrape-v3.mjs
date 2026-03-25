@@ -45,6 +45,8 @@ const SEARCH_QUERIES = [
   'AI setup',
   'AI help',
   'openclaw',
+  'openclaw set-up',
+  'openclaw setup',
   'app developer',
   'mobile app',
   'ecommerce',
