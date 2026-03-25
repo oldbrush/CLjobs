@@ -1,0 +1,359 @@
+{
+  "total": 44,
+  "citiesCount": 20,
+  "results": [
+    {
+      "city": "sfbay",
+      "label": "Atherton / SF Bay Area, CA (94027)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "Website Development/Developer",
+      "url": "https://sfbay.craigslist.org/eby/web/d/union-city-website-development-developer/7920143090.html"
+    },
+    {
+      "city": "sfbay",
+      "label": "Atherton / SF Bay Area, CA (94027)",
+      "query": "Claude",
+      "subcat": "sof",
+      "title": "Looking for Bizdev/marketing person tohelp in our AI software",
+      "url": "https://sfbay.craigslist.org/sby/sof/d/santa-clara-looking-for-bizdev/7921923785.html"
+    },
+    {
+      "city": "sfbay",
+      "label": "Atherton / SF Bay Area, CA (94027)",
+      "query": "SEO",
+      "subcat": "mar",
+      "title": "Digital Marketing Analyst (Remote or In Person)",
+      "url": "https://sfbay.craigslist.org/eby/mar/d/oakland-digital-marketing-analyst/7918061841.html"
+    },
+    {
+      "city": "newyork",
+      "label": "Sagaponack / Hamptons, NY (11962)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://newyork.craigslist.org/brx/web/d/new-york-remote-front-end-developer/7920635261.html"
+    },
+    {
+      "city": "newyork",
+      "label": "Sagaponack / Hamptons, NY (11962)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://newyork.craigslist.org/brx/web/d/new-york-remote-front-end-developer/7917070415.html"
+    },
+    {
+      "city": "newyork",
+      "label": "Sagaponack / Hamptons, NY (11962)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://newyork.craigslist.org/mnh/web/d/new-york-website-designer-work-from-home/7919219509.html"
+    },
+    {
+      "city": "newyork",
+      "label": "Sagaponack / Hamptons, NY (11962)",
+      "query": "web developer",
+      "subcat": "web",
+      "title": "WooCommerce Web Developer for Long Island business website",
+      "url": "https://longisland.craigslist.org/web/d/roosevelt-woocommerce-web-developer-for/7917777365.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://miami.craigslist.org/mdc/web/d/miami-website-designer-work-from-home/7919215199.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Google Ads Lead Gen – No Beginners – In Office  (Technology Services)",
+      "url": "https://tampa.craigslist.org/psc/web/d/port-richey-google-ads-lead-gen-no/7922630852.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "web designer",
+      "subcat": "web",
+      "title": "IT systems manager/Creative Digital Designer & AI Animation creator",
+      "url": "https://miami.craigslist.org/pbc/web/d/boynton-beach-it-systems-manager/7922383169.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "web designer",
+      "subcat": "sof",
+      "title": "IT systems manager/Creative Digital Designer & AI Animation creator",
+      "url": "https://miami.craigslist.org/pbc/sof/d/boynton-beach-it-systems-manager/7922383165.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "need website",
+      "subcat": "mar",
+      "title": "Google Ads Lead Gen – No Beginners – In Office  (Technology Services)",
+      "url": "https://tampa.craigslist.org/psc/mar/d/port-richey-google-ads-lead-gen-no/7922630851.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "website help",
+      "subcat": "mar",
+      "title": "Internship Opportunity For Marketing / SEO / AI Student",
+      "url": "https://sarasota.craigslist.org/mar/d/laurel-internship-opportunity-for/7920912089.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "Shopify",
+      "subcat": "mar",
+      "title": "Office Operations Specialist (E-Commerce)",
+      "url": "https://miami.craigslist.org/brw/mar/d/fort-lauderdale-office-operations/7922276308.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "SEO",
+      "subcat": "mar",
+      "title": "Marketing & AI",
+      "url": "https://miami.craigslist.org/mdc/mar/d/miami-marketing-ai/7921786379.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "AI help",
+      "subcat": "mar",
+      "title": "Let AI Tools work for you! Don't miss this.",
+      "url": "https://keys.craigslist.org/mar/d/key-west-let-ai-tools-work-for-you-dont/7916867574.html"
+    },
+    {
+      "city": "miami",
+      "label": "Fisher Island / Miami, FL (33109)",
+      "query": "web designer",
+      "subcat": "tch",
+      "title": "IT systems manager/Creative Digital Designer & AI Animation creator",
+      "url": "https://miami.craigslist.org/pbc/tch/d/boynton-beach-it-systems-manager/7922383167.html"
+    },
+    {
+      "city": "washingtondc",
+      "label": "Great Falls / DC Metro, VA (22066)",
+      "query": "WordPress",
+      "subcat": "web",
+      "title": "WordPress / Elementor / SEO Expert (Overseas OK) – Performance Pay",
+      "url": "https://roanoke.craigslist.org/web/d/roanoke-wordpress-elementor-seo-expert/7921982023.html"
+    },
+    {
+      "city": "chicago",
+      "label": "Winnetka / Chicago, IL (60093)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://chicago.craigslist.org/chc/web/d/chicago-website-designer-work-from-home/7919218989.html"
+    },
+    {
+      "city": "chicago",
+      "label": "Winnetka / Chicago, IL (60093)",
+      "query": "build website",
+      "subcat": "mar",
+      "title": "Website Help Needed",
+      "url": "https://chicago.craigslist.org/nch/mar/d/lincolnshire-website-help-needed/7921434909.html"
+    },
+    {
+      "city": "seattle",
+      "label": "Medina / Seattle, WA (98039)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://seattle.craigslist.org/see/web/d/medina-website-designer-work-from-home/7919215472.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://houston.craigslist.org/web/d/houston-remote-front-end-developer/7920635263.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://houston.craigslist.org/web/d/houston-remote-front-end-developer/7917070413.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://sanantonio.craigslist.org/web/d/boerne-website-designer-work-from-home/7919218802.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://dallas.craigslist.org/dal/web/d/addison-website-designer-work-from-home/7919214556.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "website help",
+      "subcat": "mar",
+      "title": "Digital Marketing",
+      "url": "https://houston.craigslist.org/mar/d/houston-digital-marketing/7917258902.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "AI help",
+      "subcat": "mar",
+      "title": "Entrepreneurs & Marketers Wanted – AI Trading Business Opportunity",
+      "url": "https://houston.craigslist.org/mar/d/spring-entrepreneurs-marketers-wanted/7919674041.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "ecommerce",
+      "subcat": "mar",
+      "title": "Amazon PPC Specialist / TikTok Content Creator",
+      "url": "https://houston.craigslist.org/mar/d/houston-amazon-ppc-specialist-tiktok/7922128506.html"
+    },
+    {
+      "city": "houston",
+      "label": "River Oaks / Houston, TX (77019)",
+      "query": "ecommerce",
+      "subcat": "mar",
+      "title": "Amazon PPC Specialist / TikTok Content Creator",
+      "url": "https://houston.craigslist.org/mar/d/houston-amazon-ppc-specialist-tiktok/7921737835.html"
+    },
+    {
+      "city": "sandiego",
+      "label": "Rancho Santa Fe / San Diego, CA (92067)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://losangeles.craigslist.org/lac/web/d/los-angeles-remote-front-end-developer/7920635262.html"
+    },
+    {
+      "city": "sandiego",
+      "label": "Rancho Santa Fe / San Diego, CA (92067)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://losangeles.craigslist.org/lac/web/d/los-angeles-remote-front-end-developer/7917070414.html"
+    },
+    {
+      "city": "sandiego",
+      "label": "Rancho Santa Fe / San Diego, CA (92067)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "Web Dev (wordpress), graphic abilities, enphasis on mkt/sales-Soc Medi",
+      "url": "https://losangeles.craigslist.org/lac/web/d/los-angeles-web-dev-wordpress-graphic/7918899448.html"
+    },
+    {
+      "city": "sandiego",
+      "label": "Rancho Santa Fe / San Diego, CA (92067)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://losangeles.craigslist.org/wst/web/d/los-angeles-website-designer-work-from/7919214834.html"
+    },
+    {
+      "city": "denver",
+      "label": "Cherry Hills Village / Denver, CO (80113)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://denver.craigslist.org/web/d/aurora-website-designer-work-from-home/7919219339.html"
+    },
+    {
+      "city": "atlanta",
+      "label": "Buckhead / Atlanta, GA (30327)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://atlanta.craigslist.org/atl/web/d/decatur-website-designer-work-from-home/7919219168.html"
+    },
+    {
+      "city": "atlanta",
+      "label": "Buckhead / Atlanta, GA (30327)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://charlotte.craigslist.org/web/d/matthews-website-designer-work-from-home/7919219662.html"
+    },
+    {
+      "city": "phoenix",
+      "label": "Paradise Valley / Phoenix, AZ (85253)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://phoenix.craigslist.org/cph/web/d/phoenix-remote-front-end-developer/7920635264.html"
+    },
+    {
+      "city": "phoenix",
+      "label": "Paradise Valley / Phoenix, AZ (85253)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://phoenix.craigslist.org/cph/web/d/phoenix-remote-front-end-developer/7919085890.html"
+    },
+    {
+      "city": "phoenix",
+      "label": "Paradise Valley / Phoenix, AZ (85253)",
+      "query": "build website",
+      "subcat": "web",
+      "title": "►⌨️ REMOTE FRONT END DEVELOPER ⌨️◄",
+      "url": "https://phoenix.craigslist.org/cph/web/d/phoenix-remote-front-end-developer/7917070416.html"
+    },
+    {
+      "city": "phoenix",
+      "label": "Paradise Valley / Phoenix, AZ (85253)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://phoenix.craigslist.org/cph/web/d/phoenix-website-designer-work-from-home/7919215710.html"
+    },
+    {
+      "city": "phoenix",
+      "label": "Paradise Valley / Phoenix, AZ (85253)",
+      "query": "need website",
+      "subcat": "web",
+      "title": "Website Designer - Work from home",
+      "url": "https://lasvegas.craigslist.org/web/d/henderson-website-designer-work-from/7919215051.html"
+    },
+    {
+      "city": "portland",
+      "label": "Lake Oswego / Portland, OR (97034)",
+      "query": "AI help",
+      "subcat": "web",
+      "title": "SEEKING AN AI SPECIALIST",
+      "url": "https://portland.craigslist.org/mlt/web/d/thousand-oaks-seeking-an-ai-specialist/7920615249.html"
+    },
+    {
+      "city": "portland",
+      "label": "Lake Oswego / Portland, OR (97034)",
+      "query": "AI help",
+      "subcat": "web",
+      "title": "Computer Kid for Mysql, Ai, and Html",
+      "url": "https://abbotsford.craigslist.org/web/d/abbotsford-southwest-computer-kid-for/7916880678.html"
+    },
+    {
+      "city": "portland",
+      "label": "Lake Oswego / Portland, OR (97034)",
+      "query": "app developer",
+      "subcat": "sof",
+      "title": "Seeking Senior App Developer for Independent Technical & Legal Review",
+      "url": "https://victoria.craigslist.org/sof/d/saanich-central-seeking-senior-app/7919365355.html"
+    }
+  ],
+  "scrapedAt": "2026-03-25T18:32:00.253Z"
+}

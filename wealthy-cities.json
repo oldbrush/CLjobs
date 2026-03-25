@@ -1,0 +1,22 @@
+[
+  {"city": "sfbay", "label": "Atherton / SF Bay Area, CA (94027)"},
+  {"city": "newyork", "label": "Sagaponack / Hamptons, NY (11962)"},
+  {"city": "losangeles", "label": "Beverly Hills / LA, CA (90210)"},
+  {"city": "miami", "label": "Fisher Island / Miami, FL (33109)"},
+  {"city": "washingtondc", "label": "Great Falls / DC Metro, VA (22066)"},
+  {"city": "boston", "label": "Weston / Boston, MA (02493)"},
+  {"city": "chicago", "label": "Winnetka / Chicago, IL (60093)"},
+  {"city": "seattle", "label": "Medina / Seattle, WA (98039)"},
+  {"city": "dallas", "label": "Highland Park / Dallas, TX (75205)"},
+  {"city": "houston", "label": "River Oaks / Houston, TX (77019)"},
+  {"city": "sandiego", "label": "Rancho Santa Fe / San Diego, CA (92067)"},
+  {"city": "orangecounty", "label": "Newport Beach / OC, CA (92661)"},
+  {"city": "denver", "label": "Cherry Hills Village / Denver, CO (80113)"},
+  {"city": "atlanta", "label": "Buckhead / Atlanta, GA (30327)"},
+  {"city": "nashville", "label": "Belle Meade / Nashville, TN (37205)"},
+  {"city": "austin", "label": "West Lake Hills / Austin, TX (78746)"},
+  {"city": "phoenix", "label": "Paradise Valley / Phoenix, AZ (85253)"},
+  {"city": "raleigh", "label": "Raleigh / Research Triangle, NC"},
+  {"city": "portland", "label": "Lake Oswego / Portland, OR (97034)"},
+  {"city": "minneapolis", "label": "Wayzata / Minneapolis, MN (55391)"}
+]
