@@ -18,5 +18,15 @@
   {"city": "phoenix", "label": "Paradise Valley / Phoenix, AZ (85253)"},
   {"city": "raleigh", "label": "Raleigh / Research Triangle, NC"},
   {"city": "portland", "label": "Lake Oswego / Portland, OR (97034)"},
-  {"city": "minneapolis", "label": "Wayzata / Minneapolis, MN (55391)"}
+  {"city": "minneapolis", "label": "Wayzata / Minneapolis, MN (55391)"},
+  {"city": "london", "label": "Kensington & Chelsea / London, UK"},
+  {"city": "zurich", "label": "Zurich, Switzerland"},
+  {"city": "dubai", "label": "Dubai, UAE"},
+  {"city": "singapore", "label": "Singapore"},
+  {"city": "hongkong", "label": "Hong Kong"},
+  {"city": "tokyo", "label": "Minato / Tokyo, Japan"},
+  {"city": "sydney", "label": "Eastern Suburbs / Sydney, Australia"},
+  {"city": "amsterdam", "label": "Canal Belt / Amsterdam, Netherlands"},
+  {"city": "toronto", "label": "Bridle Path / Toronto, Canada"},
+  {"city": "vancouver", "label": "West Vancouver, Canada"}
 ]
